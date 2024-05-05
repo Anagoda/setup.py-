@@ -29,3 +29,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+I excuted on my Linux VM
+![image](https://github.com/Anagoda/setup.py-/assets/168952131/fc1f2240-0c1b-46ce-bc12-fa40d8eabcb0)
